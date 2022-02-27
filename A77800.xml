@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alderman Bunce his speech to the Lord Maior, Aldermen and Common-Council of London, touching the Kings resolution to accept of honourable conditions from a free-Parliament for his admitment.</title>
+            <author>Bunce, James, Sir, d. 1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77800</idno>
+            <idno type="STC">Wing B5472</idno>
+            <idno type="STC">Thomason E1017_41</idno>
+            <idno type="STC">ESTC R208240</idno>
+            <idno type="EEBO-CITATION">99867206</idno>
+            <idno type="PROQUEST">99867206</idno>
+            <idno type="VID">168834</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77800)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168834)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1017[41])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Alderman Bunce his speech to the Lord Maior, Aldermen and Common-Council of London, touching the Kings resolution to accept of honourable conditions from a free-Parliament for his admitment.</title>
+                  <author>Bunce, James, Sir, d. 1670.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T.S. for O.H. and are to be sold at the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March. 24. 1659"; also the last two numbers of the imprint date have been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Early works to 1800.</term>
+               <term>Corporation of London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168834:1" rendition="simple:additions"/>
+            <p>Alderman Bunce HIS SPEECH TO THE Lord Maior, Aldermen and Com<g ref="char:EOLhyphen"/>mon-Council of LONDON, TOUCHING The Kings Reſolution to ac<g ref="char:EOLhyphen"/>cept of Honourable Conditions from a Free-Parliament for his Admitment.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. S.</hi> for <hi>O. H.</hi> and are to be ſold at the <hi>Royal Exchange.</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:168834:2"/>
+            <pb n="1" facs="tcp:168834:2"/>
+            <head>Alderman <hi>Bunce</hi>'s Speech to the Lord Maior, Aldermen, and Common-Council of LONDON, touching the KINGS Reſo<g ref="char:EOLhyphen"/>lution to accept of Honourable Con<g ref="char:EOLhyphen"/>ditions from a Free-Parliament for his Admitment.</head>
+            <p>
+               <hi>My Lord, Gentlemen, and Fellow-Citizens,</hi>
+            </p>
+            <p>THat I am after ſo long a time of Baniſhment, and al<g ref="char:EOLhyphen"/>moſt deſpair, returned again without fear into my native Country, I need not I think tell you how much I rejoyce at; but I cannot indeed tell you that unexpreſſible joy which I feel within my boſome, to find my poor diſtreſſed and diſtracted Country in ſome hopes of Settlement and Reſtoration to her priſtine Glory, even then when ſhe ſeem'd to be moſt overwhel<g ref="char:EOLhyphen"/>med and ſwallowed up, under the uſurpation and tyranny of the moſt mean and Fanatick Spirits of the Nation.</p>
+            <p>Nor can I here forbear to burſt out into Praiſes and Thanks to God for his ſo great a Mercy and Deliverance, That he hath at length been pleaſed to withdraw his afflicting hand in ſome meaſure from us; That he hath opened the eyes of the greateſt part of this Nation, except thoſe who are wilfully and obſtinately blinded by their own pernicious and covetous Intereſts; That
+<pb n="2" facs="tcp:168834:3"/>after we had wilfully run head-long into the Ditch of Ruine, he is pleaſed to lay to his hand to help us out.</p>
+            <p>'Tis well (my Lord) that though we have bought our Know<g ref="char:EOLhyphen"/>ledge and Repentance at ſo dear a rate, at the expence of ſo much Blood and Treaſure, yet that we can repent at laſt, That we are at laſ: ſenſible of our Diſtractions, that now we are able to bear no more, we have one who will help us to throw off our Bur<g ref="char:EOLhyphen"/>thens, That we can now ſee our blindneſs, our errour, our folly, that whilſt we endeavoured to free our ſelves from the pretend<g ref="char:EOLhyphen"/>ed Tyranny of our lawfull King, Soveraign, and Superiour, we ſubjected our ſelves under the Arbitrary will and power of our Equals, if not Inferiours.</p>
+            <p>I muſt confeſſe (my Lord) though 'tis well known to you all Gentlemen, that I was at the beginning of the late unhappy wars, blinded as well as others, yet I utterly diſown that I ever had any deſign or intention to wrong my Printe, though I accounted it then the duty of every Freeborn Engliſhman to ſtand for the privilege of Parliament, as for his Native Birthright, ſo far I durſt go, but no farther; for when I ſaw thoſe, who before they had got the power into their hands, pretended to maintain Parliamentary privileges, pretended to ſettle the King in Glory, violently infringe the firſt, and murder the ſecond, I could not but in reaſon and conſcience proteſt againſt them.</p>
+            <p>Nor was the murdering of their King, or infringing the privi<g ref="char:EOLhyphen"/>leges of Parliament, the furtheſt thoſe men went who had then got the power into their hands, and ruled only by Sword-law, but having given the Name of a Parliament to a ſelect number of their Creatures, and ſome who durſt do no otherwiſe than obey their Commands, they made Laws at their pleaſure, diſinheriting the lawfull Heir, and aboliſhing the power of the Houſe of Lords, the chief part of a Parliamentary Grand Council, they ſold the Kings, Queens, Biſhops, Deans and Chapters Lands, to maintain their Violencies and Villanies, or to enrich themſelves, making a prey of theſe Nations, and over-throwing the Funda<g ref="char:EOLhyphen"/>mental laws of the Land.</p>
+            <p>This my Lord you very well know was the <hi>Praemunire</hi> we had run our ſelves into. This was that we fought for, this was that for which we conſumed ſo much Blood and Treaſure: in ſhort, we fought for Liberty that we might be enſlaved, we fought for
+<pb n="3" facs="tcp:168834:3"/>Religion that we might nouriſh Hereſies, Sects and Schiſms in the Church, we ſpent our Eſtates freely, to maintain a War amongſt our ſelves under ſpecious pretences, that we might have them prey'd upon by ravenous Wolves.</p>
+            <p>But when we had run our ſelves into all theſe miſeries, under a piece of a Parliament, who had endeavoured all that lay in their power to eſtabliſh their own Government, yet were they themſelves at length turned out by their Servant, their <hi>General,</hi> (the juſt reward of their treachery to their Maſter) who Eſta<g ref="char:EOLhyphen"/>bliſhes in himſelf that power, which he had before avowed as ty<g ref="char:EOLhyphen"/>rannical, and uſurps to himſelf, though not fully the Title, yet more than the power of any King of <hi>England;</hi> ſo it fairly proved that he only defam'd Kingſhip as Tyrannical, that he might be a Tyrant.</p>
+            <p>The many changes and Alterations ſince in the Engliſh Go<g ref="char:EOLhyphen"/>vernment, are ſo new, that they need no recital, only thus much, that as all they in whoſe hands the Government was, were equal<g ref="char:EOLhyphen"/>ly guilty of the forementioned crimes, ſo though they did op<g ref="char:EOLhyphen"/>poſe one another, yet they all agreed together in continuing and adding to the Nations Diſtractions, in preferment to imploy<g ref="char:EOLhyphen"/>ments, either in Church or State, ſuch only as were either as guilty as themſelves, or elſe poſſeſt with their Fanatick Opinions, in defaming the lawfull Heir, and endeavouring by Calumnies, to engender an odium of him in the peoples minds, which might have found its deſired effect, had not the people for their Cheats and Deluſions, conceived a juſt odium of them, ſo that <hi>the arrow they ſhot, returned again upon their own heads.</hi>
+            </p>
+            <p>But many of the good people of <hi>England</hi> are ſtill poſſeſt with their Calumnies, and believe many of them for truth, though againſt ſuch clear and certain Evidences; Many underſtanding people of the Nation, convincing themſelves by Imaginary cir<g ref="char:EOLhyphen"/>cumſtances, that not only his Majeſty, but his Brothers, the thrice Noble Dukes of <hi>York</hi> and <hi>Glocester,</hi> have left the Religion of their Fathers and Country, and are turned to the Fopperies of Romiſh Superſtition and Idol try, which how falſe it is, the God of Heaven knows, and my ſelf can witneſſe his and his Brother, conſtant uſe and practice of the Engliſh Liturgie, and other Cuſ<g ref="char:EOLhyphen"/>toms of the beſt reformed Church of <hi>England,</hi> his conſtant en<g ref="char:EOLhyphen"/>couragement
+<pb n="4" facs="tcp:168834:4"/>of ſuch ſervants of his, as profeſſe the true Proteſt<g ref="char:EOLhyphen"/>ant Religion, whether in Epiſcopacy or Presbytery, and his con<g ref="char:EOLhyphen"/>trary diſcoragement of all ſuch who permit themſelves to be in<g ref="char:EOLhyphen"/>veigled into Popiſh or Jeſuitical opinions and tenents, being ſuf<g ref="char:EOLhyphen"/>ficient evidence, that he is ſo far from leaving of his true and mo<g ref="char:EOLhyphen"/>ther Church, that all poſſible encouragement is, will certainly be at all times given by him, to the true and ſound profeſſors of the Proteſtant Religion.</p>
+            <p>For thoſe other Calumnies laid upon, and only ſetled in the hearts of the common Souldiers, (whom their Officers here have made believe, that they muſt expect nothing but death, if he ſhould be admitted to his Crown) <hi>viz.</hi> that he is revengefull, cruel, never forgetting injuries, but though ſoothing for a time, yet at fit opportunities reſolute in his revenge, all that know him, know to be falſe, for he is Gentle, Mercifull, Peaceable, and rather inclined to ſuffer injuries, than either to give or avenge them.</p>
+            <p>That he intends (as ſome ſay) to come with a Forein Force to regain his Right, and ſettle himſelf in his Throne, would be but what we might in juſtice expect, who have ſo long expoſed him to the miſeries of the wide world, and made him the pattern of Patience to future generations, it being lawfull both by the Laws of God and man for any one to uſe all means and en<g ref="char:EOLhyphen"/>deavours for the recovery of his own; yet ſo meek and patient hath he been, that it hath not ſo much as entred into his thoughts to acquiſt his Kingdom by force or violence, whilſt he can hope to have it by the love of his Subjects; he therefore is reſolvedly bent to attend the pleaſure of a free Parliament, and wholly intent to accept of ſuch conditions, as ſhall be propoſed with honour by them, rather reſolving to part with ſome of his Right, than to let theſe Nations run on into further diſtractions, or his Sub<g ref="char:EOLhyphen"/>jects be oppreſſed.</p>
+            <p>That we might as a juſt judgement of God have expected a forein force here amongſt us for our obſtinacy, we cannot but be ſenſible of, but that we have ſo mercifull a Prince, who rather waves his Right, and endures with patience his expulſion, than feeks or attempts to invade us by a Forein Power, by which, though he might gain revenge and ſatisfaction to himſelf, yet muſt it ne<g ref="char:EOLhyphen"/>ceſſarily
+<pb n="5" facs="tcp:168834:4"/>be with our utter Ruine, and deſerved deſtruction, we muſt acknowledge as a great mercy of Gods.</p>
+            <p>It is not unlikely that you my Lord, and theſe other Gentle<g ref="char:EOLhyphen"/>men my fellow-Citizens may admire ſomewhat, that I, who was once ſo far drawn on the other ſide, ſhould now declaim ſo much againſt it, but experience hath now undeceived me, I was for the maintaining, not the infringing Privileges of Parliament. I was for the reſtoring, not murthering of the King, I was for them ſo long as they ſtood faſt to the Oath they took in the Solemn League and Covenant, to maintain the King and his Poſterity, not for them, when they had beheaded him, and baniſhed his Poſterity; I was for the moderation of a Kingly Go<g ref="char:EOLhyphen"/>verment, not for the erecting of Anarchichall Tyrannies, or Governments <hi>ad libitum.</hi>
+            </p>
+            <p>But when I ſaw that thoſe, who pretended that they acted on<g ref="char:EOLhyphen"/>ly for the Nations good, intended onely for their own, to di<g ref="char:EOLhyphen"/>ſtract and ruine theſe Nations, to depreſſe the Nobility and Gen<g ref="char:EOLhyphen"/>try, onely to raiſe themſelves; that they began to oppreſſe and force unheard of impoſitions and burthens upon the Commo<g ref="char:EOLhyphen"/>nalty, to maintain their Villanies, and enrich themſelves, to con<g ref="char:EOLhyphen"/>found and overthrow all Religion, under a pretence of ſettling and maintaining it, 'twas time to withdraw my ſelf from, nor could my Conſcience proceed any further with them, 'twas they (my Lord) that are changed, and not I.</p>
+            <p>What I at firſt declared for, and have already ventured my E<g ref="char:EOLhyphen"/>ſtate for, that I ſtill will, and ſhall maintain to the utmoſt drop of my blood, <hi>viz.</hi> to defend the Privileges of Parliament, without infringing the Royal Prerogative, to endeavour the maintaining the King, his Poſterity, according to the Solemn League and Covenant, this I think (my Lord) was the firſt pretence of theſe mens raiſing War againſt his late Majeſty, which at firſt drew ſo many honeſt men to their party; but what hath been the iſſue of theſe pretences, we have ſeen by too ſad experience.</p>
+            <p>I think it was therefore the duty, my Lord, of every honeſt man to ſtand to thoſe firſt Principles that he undertook, and not with the multitude (blinded by the ambition and ſelf Intereſts of ſome particular men) run into thoſe wickedneſſes and miſchiefs which they have ſince perpetrated, and I think you my Lord, and the reſt of
+<pb n="6" facs="tcp:168834:5"/>my brethren and Fellow Citizens here, ought to take theſe things into conſideration, and remember that Oath which I preſume moſt of you took in the Solemn League and Covenant.</p>
+            <p>I think my Lord I need make no further apologie, either for my ſelf or the cauſe I plead for, there's ſo much of juſtice in it, that it needs no Oratory to confirm, nor could that cauſe be ever con<g ref="char:EOLhyphen"/>futed but by the Sword, whoſe Tyrannical power we have ſuffi<g ref="char:EOLhyphen"/>ciently felt, and ſeen the difference, between a Government by uſurping and perjured perſons, and the Clemency of a too mild and gracious Prince.</p>
+            <p>I ſhall my Lord, adde no further, but onely conclude with this Prayer, That the God of Heaven would open your eyes, and the eyes of this whole Nation, and ſtrengthen your hands in the ſet<g ref="char:EOLhyphen"/>tlement of theſe three diſtreſſed Nations in peace and quietneſſe, which can no better be done than by your hearty prayers and en<g ref="char:EOLhyphen"/>deavours for the Reſtauration of the lawfull Heir to his Right: for how can we expect that he will ever let Juſtice flouriſh amongſt us whilſt we deny Juſtice to our Soveraegn.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
